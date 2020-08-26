@@ -1,0 +1,22 @@
+{
+  "name": "rookieeditor",
+  "version": "1.0.0",
+  "description": "富文本编辑器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geekZZJ/rookieeditor.git"
+  },
+  "keywords": [
+    "editor"
+  ],
+  "author": "rookiez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geekZZJ/rookieeditor/issues"
+  },
+  "homepage": "https://github.com/geekZZJ/rookieeditor#readme"
+}
